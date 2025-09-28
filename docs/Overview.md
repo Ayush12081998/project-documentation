@@ -64,7 +64,7 @@ Welcome to the project-documentation wiki!
 
 👉 This project will cover both **core microservice basics** and **advanced distributed systems problems** (consistency, resilience, event-driven design).
 
-- [Tech Designs](./Design)
-- [Ops design choices](./Devops)
+- [Tech Designs](./Design.md)
+- [Ops design choices](./Devops.md)
 
 
